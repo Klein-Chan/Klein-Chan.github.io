@@ -5,7 +5,7 @@ Welcome to my personal website repository.
 🌍 This website presents my journey, thoughts, and projects.
 
 ## 🔗 Visit my website
-👉 https://Klein.github.io
+👉 https://klein-chan.github.io/
 
 ## 📌 About me
 - 🎓 Master of Data Analytics @ UNSW  
