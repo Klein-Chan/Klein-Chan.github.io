@@ -12,4 +12,4 @@ Welcome to my personal website repository.
 - 🤖 Exploring AI and its real-world applications  
 
 ## 📬 Contact
-- Email: chen947154416@163.com
+- Wechat: chen947154416
